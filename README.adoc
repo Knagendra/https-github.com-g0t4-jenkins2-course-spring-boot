@@ -10,7 +10,7 @@ You can use Spring Boot to create stand-alone Java applications that can be star
 that runs spring scripts.
 Adding line 11 - change 2,change 3
 Our primary goals are:
-
+add 1 more line
 * Provide a radically faster and widely accessible getting started experience for all
 Spring development
 * Be opinionated out of the box, but get out of the way quickly as requirements start to
